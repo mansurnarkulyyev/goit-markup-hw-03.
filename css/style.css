@@ -303,15 +303,20 @@ padding-bottom: 0px;
   border-radius: 0px 0px 4px 4px;
 }
 
+.team-list-wrap{
+  margin: 30px 0 30px 0;
+}
+
 .team-title{
   font-weight: 500;
   font-size: 16px;
   line-height: 1.18;
   letter-spacing: 0.03em;
   color: var(--body-color);
-  padding-top: 30px;
+  margin-bottom: 10px;
 }
 .team-text{
+  margin-bottom: 0;
   font-size: 16px;
   line-height: 1.18;
   letter-spacing: 0.03em;
@@ -374,17 +379,20 @@ padding-bottom: 0px;
   margin-top: 30px;
 }
 
+.portfolio-list-item{
+  margin: 20px 0px 20px 24px;
+}
+
 .portfolio-title{
   font-weight: bold;
   font-size: 18px;
   line-height: 2;    
   letter-spacing: 0.06em;
   color: var(--body-color);
-  margin: 20px 0px 0px 24px;
+  margin-bottom: 4px;
 }
 
 .portfolio-text{
-  margin-left: 24px;
   font-weight: normal;
   font-size: 16px;
   line-height: 1.87;
